@@ -106,6 +106,64 @@
    - 投资研发与合作
    - 关注政策法规
    - 培养多元化团队
+   
+## 来自[席乐](https://github.com/Tairraos/)补充
+
+## 问答
+
+| 名字        | 网址                     | 特色                                           |
+| ----------- | ------------------------ | ---------------------------------------------- |
+| Chat GPT    | https://chat.openai.com/ | 聊天问答，写诗，写歌，写程序                   |
+| New Bing    | https://bing.com/        | 搜索网页，并汇总报告搜索结果。也可以用来写代码 |
+| Google bard | https://bard.google.com/ | 谷歌的chatgpt                                  |
+| 文心一言    | https://yiyan.baidu.com/ | 百度的chatgpt                                  |
+
+## 图片生成
+
+| 名字           | 网址                         | 功能                                                         |
+| -------------- | ---------------------------- | ------------------------------------------------------------ |
+| Galileo AI     | https://www.usegalileo.ai/   | 用文字描述生成带手机框的界面                                 |
+| Dall-E         | https://labs.openai.com/     | openai模型，没啥特色                                         |
+| Dream by WOMBO | https://dream.ai/            | 不用登录就能用，可以用选择风格的方式隐含添加一个提示词       |
+| Midjourney     | https://www.midjourney.com/  | Midjourney模型。 社区服务：观察别人图片的提示词，10元200图   |
+| Lexica         | https://lexica.art/          | Lexica Aperture模型。社区服务：观察别人图片的提示词，10元1000图 |
+| Images AI      | https://images.ai/           | 不用注册，直接玩卡通                                         |
+| C站            | https://civitai.com/         | SD模型下载                                                   |
+| Adobe Firefly  | https://firefly.adobe.com/   | Adobe的diffusion包装方案，修饰词可视化。可以自己传图训练Lora。 |
+| DreamStudio    | https://beta.dreamstudio.ai/ | 多版本Stable Diffusion可选                                   |
+| leonardo.ai    |                              |                                                              |
+
+## 提示词
+| 名字                      | 网址                       | 功能                                            |
+| ------------------------- | -------------------------- | ----------------------------------------------- |
+| Stable Diffusion 法术解析 | https://spell.novelai.dev/ | 分析SD提示词                                    |
+| FindingArt                | https://finding.art/       | 收集各种AI生成的图片，并通过它们学习提示词      |
+| Accelerator               | https://ai.dawnmark.cn/    | 用图片解释多种AI模型中，提示词的作用            |
+| Danbooru 标签超市         | https://tags.novelai.dev/  | 中文分类选择提示词，省去手打                    |
+| ArtHub.ai                 | https://arthub.ai/         | 自己上传的AI生成牛逼图，需公开提示词            |
+| KALOS lib                 | https://lib.kalos.art/     | 收集了大量stable diffustion的提示词作品用于参考 |
+
+
+## 视频
+| 名字               | 网址                               | 功能             |
+| ------------------ | ---------------------------------- | ---------------- |
+| EbSynth | https://ebsynth.com/ | 单帧序列转视频 |
+| DAIN | https://github.com/baowenbo/DAIN/ | 深度感知视频帧插值 |
+| Runway Gen-2 | https://research.runwayml.com/gen2 | 图生图的视频联想 |
+| Wonder Dynamics | https://wonderdynamics.com/ | 把视频里的角色替换成3D模型 |
+
+## 生产力
+| 名字               | 网址                               | 功能             |
+| ------------------ | ---------------------------------- | ---------------- |
+| autodraw | https://autodraw.com/ | 带一个智能画笔的白板。智能画笔是ai找一堆比较象你画的东西给你替换 |
+|  |  |  |
+
+## 编程
+
+| 名字               | 网址                                | 功能                                    |
+| ------------------ | ----------------------------------- | --------------------------------------- |
+| Programming Helper | https://www.programming-helper.com/ | 根据描述写出代码                        |
+| cursor             | https://cursor.so/                  | openai base的编程文本编辑器，也可以聊天 |
 
 ## 三、头脑风暴
 
